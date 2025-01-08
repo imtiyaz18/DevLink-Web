@@ -1,1 +1,1 @@
-export const BASE_URL = "https://devlink-murex.vercel.app/";
+export const BASE_URL = "http://localhost:7777";
